@@ -93,7 +93,7 @@ The available parameters include:
 
 Accepts the same parameters as `staticMapUrl`.
 
-### Output a dynamic Google Map
+###### Output a dynamic Google Map ######
 
     {% set options = {
         width: 400,
